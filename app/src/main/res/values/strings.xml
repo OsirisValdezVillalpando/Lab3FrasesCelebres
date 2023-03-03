@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Frases Celebres</string>
+    <string name="Generar_No">Generar No.</string>
+    <string name="Mostrar_frase">Mostrar Frase</string>
+    <string name="NombreAutor">Nombre Autor</string>
+    <string name="FraseAutor">FraseAutor</string>
+    <string name="Aristoteles">Aristóteles</string>
+    <string name="SirFrancisBacon">Sir Francis Bacon</string>
+    <string name="HonoreDeBalzac">Honoré de Balzac</string>
+    <string name="FraseAristóteles">"La amistad es un alma que habita en dos cuerpos; un corazón que habita en dos almas."</string>
+    <string name="FraseSirFrancisBacon">"Si comienza uno con certezas, terminará con dudas; mas si se acepta empezar con dudas, llegará a terminar con certezas."</string>
+    <string name="FraseHonoréDeBalzac">"Puede uno amar sin ser feliz; puede uno ser feliz sin amar; pero amar y ser feliz es algo prodigioso."</string>
+</resources>
